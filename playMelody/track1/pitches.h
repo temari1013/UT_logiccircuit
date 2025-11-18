@@ -1,7 +1,7 @@
 /*************************************************
    Public Constants
  *************************************************/
-#define NA 5
+#define NA 500000
 #define NOTE_B0 31
 #define NOTE_C1 33
 #define NOTE_CS1 35
